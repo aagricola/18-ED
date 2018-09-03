@@ -30,10 +30,10 @@
 
 ## Homework
 - read the [dFab Studio manual](http://staff.mica.edu/rmckibbin/Images/Manual.pdf) and be sure that you, understand,  and agree to all of this information.
-- Read the reading in our examples folder. This will explain what a CPJ is so that you can go ahead and start keeping one as soon as possible. 
+- Read the reading in our examples folder. This will explain what a CPJ is so that you can go ahead and start keeping one as soon as possible.
 - [Rhino 5 tutorials on Lynda](https://www.lynda.com/Rhino-tutorials/Rhino-5-Essential-Training/133324-2.html)
 Ch 1-5  –  interface and workflow (this part is a little slow, but has useful information)
 Ch 6  –  2D modeling (you may begin assigned 2D rhino exercise after completing this section)
 Ch 7-10  – 3D modeling
-- Bring to class an idea of something that you can design or re-design that solves a problem. Think tiny life hack or tool improvement. Try to keep it around fist size or smaller. And keep it fairly simple.
+- Bring to class something that you can copy or re-design. Try to keep it around fist size or smaller. And keep it fairly simple.
 - Don't forget your headphones next week
