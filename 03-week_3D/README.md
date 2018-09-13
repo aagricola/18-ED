@@ -65,12 +65,15 @@ Create GCode:
 
 G-code is a numerical control (NC) programming language. It is used in computer-aided manufacturing (CAM) to control automated machine tools (including CNC machines and 3D printers). The slicer program also allows the designer to customize the build parameters including support, layer height, and part orientation.
 
-- Open Prusa3D Slicer
-- Here is where you will set your print settings.
-- You can lower your infill density to 10% or so. This will help your print go faster. If you want a heavier print that is denser, you will want to increase the percentage, but remember that it will increase your print time and use more material.
-- A skirt can be used to help limit warping.
-- Always check with your manufacturer about filament settings
+- Open Slicer
+- Check which printer you are on and select that printer (mk2 or mk3)
+- Set the settings to "fast"
+- You may want to alter print settings:
+  - You can lower your infill density to 10% or so. This will help your print go faster. If you want a heavier print that is denser, you will want to increase the percentage, but remember that it will increase your print time and use more material.
+  - A skirt can be used to help limit warping.
+- Always check with your manufacturer about filament settings, but if you are using inland PLA it will be the standard settings
 - Plater: Add your STL file
+- Slice Now
 - You can preview your file layer by layer to check for any issues
 - Insert the SD card and Export GCode to the card
 - LET A TECH TO HELP REMOVE YOUR PRINT from the orange Prusas... The membrane of the heated beds are easy to damage
