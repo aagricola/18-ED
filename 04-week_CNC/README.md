@@ -5,8 +5,6 @@
 - Setting up toolpaths
 - 30-45 minutes to draw your CNC assignment
 - Pair up and set toolpaths
-- If possible, cut! //
-- Begin working on Project 1, thinking, making sketches and modeling in Rhino
 
 ## CNC Assignment
 
