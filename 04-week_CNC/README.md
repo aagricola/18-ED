@@ -18,8 +18,11 @@
 ## The Weeks Ahead:
 
 Sep. 27: Visiting Artist, Eduardo Corral // Project work day
+
 Oct. 4: Finish CNC cuts if necessary / Project 1 work day
+
 Oct. 11: Project 1 Work day
+
 Oct. 18: Project 1 Critique
 
 
