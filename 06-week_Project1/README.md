@@ -16,4 +16,4 @@
   [link to cheap Elegoo Uno kit - $17.65](https://www.amazon.com/Elegoo-EL-KIT-004-Project-Starter-Tutorial/dp/B01DGD2GAO/ref=sr_1_7?ie=UTF8&qid=1538581718&sr=8-7&keywords=arduino+kit&dpID=61ZtDiWTzrL&preST=_SX342_QL70_&dpSrc=srch) or [for a few more dollars get more sensors and motors and things - $34.99](https://www.amazon.com/EL-KIT-003-Project-Starter-Tutorial-Arduino/dp/B01D8KOZF4/ref=sr_1_3?ie=UTF8&qid=1538581718&sr=8-3&keywords=arduino+kit&dpID=61v2jFNOeSL&preST=_SX342_QL70_&dpSrc=srch)
   - There are many other options out there if you want to look on adafruit and sparkfun as well
 - **Mandatory** : Attend Paul Mirel Arduino workshop in this classroom, Sunday, 3-5pm
-- **Work on Project 1: Due Oct. 18**  Next week I will check your progress and want to see that you are about two thirds of the way through.
+- **Work on Project 1: Due Oct. 25**  Next week I will check your progress and want to see that you are about one third of the way through.
