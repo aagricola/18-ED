@@ -1,7 +1,6 @@
 
 ## Today
 
-- student research presentations
 - discuss reading
 - Grasshopper
   - creating basic geometry
