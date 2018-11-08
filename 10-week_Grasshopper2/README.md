@@ -18,7 +18,6 @@
 ## Homework
 
 - Start your Creative Process Journal
-- Next week will be a project work work and optional exercises
+- Next week will be a project work week and optional Arduino exercises
 - Review what we covered today in [“Working With Data Trees” tutorial ch 1-7](https://www.youtube.com/playlist?list=PLGV167zE8gnV-mffyzD3mDhOrSM-CXaYW)
 - Optional to continue with chapters 8-14
-- Bring Arduino next week
