@@ -20,11 +20,6 @@ Gerard Rallo, Expression Dispatcher, 2009
 
 Gerard Rallo has made a series of communication Devices. Expressions Dispatcher is designed to help people in their quest for expressiveness. In using the device we can shift expressive responsibility and place it in the hands of an expert. [Visit his full website](http://www.gerardrallo.net/#art_design)
 
-![sneeze](http://moma.org/interactives/exhibitions/2011/talktome/assets/TTM_127-large.jpg)
-
-Rethink, Sneezing Bus Stop Campaign for Science World, 2007
-
-
 **The moral of the story is**
 We don't have to get very complicated to create a big impact with design... as Mileha Soneji says ["Simple Solutions are often best"](https://www.ted.com/talks/mileha_soneji_simple_hacks_for_life_with_parkinson_s?language=en)
 
