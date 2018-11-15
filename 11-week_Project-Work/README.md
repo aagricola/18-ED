@@ -44,6 +44,7 @@ Timeline:
 
 ## Homework
 
+- DUE TO SNOWDAY I didn't get to meet with each of you. So please email me with your project proposal and a breakout of your deliverables by the dates listed above. 
 - Make progress on your Project (remember: this is part of your process which is part of the project's final grade)
 - Make three more posts to your CPJ, and share the link with me if you have not already!
 - HAVE A RESTFUL BREAK!!!
