@@ -33,7 +33,7 @@ We don't have to get very complicated to create a big impact with design... as M
 
 ## Project 2
 
-Project two should involve a process of moving from some physical input to digital and then back to a physical output. If you find that you would like to reverse that flow, it's ok to go from digital to physical to digital. I encourage you to use grasshopper, doing self guided research, and building on what you have learned so far. Using at least one tool learned this semester is required.
+Project may be a continuation of your first project or something completely new. It should involve a process of moving from some physical input to digital and then back to a physical output. You will keep track of your research and progress in your CPJ that you created last week. Using at least one tool learned this semester is required.
 
 Timeline:
 - Nov 15: Grasshopper extras / Work Week
@@ -45,4 +45,5 @@ Timeline:
 ## Homework
 
 - Make progress on your Project (remember: this is part of your process which is part of the project's final grade)
+- Make three more posts to your CPJ, and share the link with me if you have not already!
 - HAVE A RESTFUL BREAK!!!
