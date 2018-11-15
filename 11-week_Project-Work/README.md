@@ -24,6 +24,7 @@ Gerard Rallo has made a series of communication Devices. Expressions Dispatcher 
 
 Rethink, Sneezing Bus Stop Campaign for Science World, 2007
 
+
 **The moral of the story is**
 We don't have to get very complicated to create a big impact with design... as Mileha Soneji says ["Simple Solutions are often best"](https://www.ted.com/talks/mileha_soneji_simple_hacks_for_life_with_parkinson_s?language=en)
 
